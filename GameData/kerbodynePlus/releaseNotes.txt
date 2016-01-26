@@ -1,0 +1,9 @@
+# Kerbodyne Plus Dev 1.0
+
+# Notes:
+* This is the first development release for Kerbodyne Plus.
+* IT IS NOT A RELEASE CANDIDATE! Will break saves!
+* If you want a release candidate check for releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+#Change Log:
+##Changes go here
