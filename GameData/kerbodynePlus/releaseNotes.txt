@@ -1,9 +1,20 @@
-# Kerbodyne Plus Dev 1.0
+# Kerbodyne Plus Dev 1.02
+
+If you want a release candidate check for releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+# Notes:
+* Added new part descriptions for all of the T404 parts.
+* Added new part, T404 E-2 Modular Truss (similar to the T404 A-2 except it comes with 4 radially attached LFO tanks).
+* Added new resources to all T404 parts.
+* Balanced T404 mass and cost variables.
+* Fixed a scaling bug with the XL-6 Landing Strut.
+
+__________________________________________________
+Kerbodyne Plus Dev 1.01
 
 # Notes:
 * This is the first development release for Kerbodyne Plus.
 * IT IS NOT A RELEASE CANDIDATE! Will break saves!
 * If you want a release candidate check for releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
-
-#Change Log:
-##Changes go here
