@@ -1,8 +1,22 @@
-# Kerbodyne Plus Dev 1.02
+# Kerbodyne Plus Dev 1.03
 
-If you want a release candidate check for releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
 
 This is not a release candidate. It will break future saves!
+
+![](http://i.imgur.com/FCdSrJt.jpg)
+
+# Notes:
+* Added new part, T202 A-1 (half size of the T404 A-1 and not hollow)
+* Added new part, T202 A-2 (half size of the T404 A-2 and not hollow)
+* Added new part, T404 d-1 (surface attach truss)
+* Added new part, T404 d-2 (surface attach truss)
+* Added new part, T404 to T202 Adapter
+* Added new part, T404 Structural Hub 
+* Added new part, T404 E-2 Modular Truss (similar to the T404 A-2 except it comes with 4 radially attached LFO tanks).
+
+__________________________________________________
+# Kerbodyne Plus Dev 1.02
 
 # Notes:
 * Added new part descriptions for all of the T404 parts.
