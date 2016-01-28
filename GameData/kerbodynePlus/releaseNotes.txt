@@ -13,7 +13,6 @@ This is not a release candidate. It will break future saves!
 * Added new part, T404 d-2 (surface attach truss)
 * Added new part, T404 to T202 Adapter
 * Added new part, T404 Structural Hub 
-* Added new part, T404 E-2 Modular Truss (similar to the T404 A-2 except it comes with 4 radially attached LFO tanks).
 
 __________________________________________________
 # Kerbodyne Plus Dev 1.02
