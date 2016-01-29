@@ -1,8 +1,18 @@
-# Kerbodyne Plus Dev 1.04 - 01/28/2016
+# Kerbodyne Plus Dev 1.05 - 01/28/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
 
 This is not a release candidate. It will break future saves!
+
+![](http://i.imgur.com/Pl1V89V.jpg)
+
+# Notes:
+* This is only a minor update
+* Added new part, T404 Tri Adapter
+* Made adjustments to T404 Penta Adapter
+
+__________________________________________________
+# Kerbodyne Plus Dev 1.04 - 01/28/2016
 
 ![](http://i.imgur.com/CXbzVws.jpg)
 
