@@ -1,3 +1,20 @@
+# Kerbodyne Plus Dev 1.06 - 02/27/2016
+
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+![](http://i.imgur.com/rnkFzgX.jpg)
+
+# Notes:
+* Replaced the Behemoth booster with the Behemoth Launch System (size 6 9x engine cluster with custom particle and sound effects).
+* Added new part S6 B-1x9 "Behemoth" Liquid Fuel Engine.
+* Added new part Kerbodyne ADTP-3-6 (adapter fuel tank).
+* Added new part Kerbodyne S6-94640 Tank (giant size 6 30m tank).
+* Added new part K404 E-2 Radial LFO Fuel Tank.
+* Added new part Kerbodyne PFR-6 Stack Decoupler.
+
+__________________________________________________
 # Kerbodyne Plus Dev 1.05 - 01/28/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
