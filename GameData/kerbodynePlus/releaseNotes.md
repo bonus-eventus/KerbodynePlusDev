@@ -1,4 +1,4 @@
-# Kerbodyne Plus Dev 1.06 - 03/09/2016
+# Kerbodyne Plus Dev 1.07 - 03/09/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
 
