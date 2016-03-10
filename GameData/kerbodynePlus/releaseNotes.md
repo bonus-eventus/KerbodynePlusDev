@@ -1,3 +1,13 @@
+# Kerbodyne Plus Dev 1.06 - 03/09/2016
+
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+# Notes:
+* Fixed a bug where the Kerbodyne  PFR-6 Stack Decoupler would sometimes crash the game.
+
+__________________________________________________
 # Kerbodyne Plus Dev 1.06 - 02/27/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
