@@ -1,3 +1,18 @@
+# Kerbodyne Plus Dev 1.08 - 04/15/2016
+
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+# Notes:
+* All configs updated to 1.1 prerelease.
+* See Kerbodyne Plus 1.05 and 1.051 Stable for 1.1 prerelease updates.
+* Leviathan Solar Wing EC/Sec output updated to 275.
+* Fixed a bug with XL-6 Landing Strut, where the start extended state resulted in the craft being sunk into the launching area.
+* Added part ELF Test Thruster.
+* Added part ELF Test Generator.
+
+__________________________________________________
 # Kerbodyne Plus Dev 1.07 - 03/09/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
@@ -5,7 +20,7 @@ If you want a release candidate check for stable releases here [link](https://gi
 This is not a release candidate. It will break future saves!
 
 # Notes:
-* Fixed a bug where the Kerbodyne  PFR-6 Stack Decoupler would sometimes crash the game.
+* Fixed a bug where the Kerbodyne PFR-6 Stack Decoupler would sometimes crash the game.
 
 __________________________________________________
 # Kerbodyne Plus Dev 1.06 - 02/27/2016

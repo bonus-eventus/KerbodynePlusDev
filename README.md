@@ -1,8 +1,10 @@
+# Caution! This is the development branch for Kerbodyne Plus. 
+
 # Installation
 
 Installation is simple. Copy the folder “kerbodynePlus” to your GameData folder.
 
-Make sure you have KSP 1.05 or higher.
+Make sure you have KSP 1.1 prerelease or higher.
 
 
 # About
