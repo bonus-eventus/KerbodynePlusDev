@@ -1,3 +1,15 @@
+# Kerbodyne Plus Dev 1.085 - 04/20/2016
+
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+# Notes:
+* Adjusted ISP and fuel flow for ELF Engine
+* Fixed a problem with srf attach weakness in both S6 radial decouplers and S6 tank clusters
+* Adjusted EC of T202 Batteries from 6000 to 4000.
+
+__________________________________________________
 # Kerbodyne Plus Dev 1.08 - 04/15/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
