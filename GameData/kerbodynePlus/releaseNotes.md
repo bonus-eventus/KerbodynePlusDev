@@ -1,3 +1,14 @@
+# Kerbodyne Plus Dev 1.086 - 04/21/2016
+
+If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
+
+This is not a release candidate. It will break future saves!
+
+# Notes:
+* Adjusted ELF Engine electric charge requirement to 2000/s
+* Added untextured/animated Fission Reactor
+
+__________________________________________________
 # Kerbodyne Plus Dev 1.085 - 04/20/2016
 
 If you want a release candidate check for stable releases here [link](https://github.com/bonus-eventus/kerbodynePlus)
